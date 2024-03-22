@@ -1,0 +1,4 @@
+<template>
+  <TimsNav/>
+  <NuxtPage/>
+</template>
